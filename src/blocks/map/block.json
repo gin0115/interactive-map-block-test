@@ -1,0 +1,17 @@
+{
+    "apiVersion": 2,
+    "name": "pinkcrab/interactive-map",
+    "version": "0.1.0",
+    "title": "Interactive Map",
+    "category": "widgets",
+    "icon": "cover-image",
+    "description": "Creates an interactive map with shapes and markers",
+    "supports": {
+        "color": true,
+        "align": true
+    },
+    "attributes": {},
+    "editorScript": "file:../../../build/blocks/map/index.js",
+    "editorStyle": "file:../../../build/blocks/map/index.css",
+    "style": "file:../../../build/blocks/map/style-index.css"
+}
